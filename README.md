@@ -1,1 +1,1 @@
-# stock-management-project
+manages stock # stock-management-project
